@@ -22,7 +22,7 @@ public class Constants {
             + "src" + FILE_SEPARATOR + "test" + FILE_SEPARATOR + "resources" + FILE_SEPARATOR + "config.properties";
 
     // Path params
-    public static final String USER_ID_PATH_PARAM_NAME = "userId";
+    public static final String USER_ID_PATH_PARAM_NAME = "userId"; //--correct one
     public static final String USER_PATH_PARAM_NAME = "userid";
     public static final String USER_ID_PATH_PARAM = getProperty("user_id_path_param");
 
